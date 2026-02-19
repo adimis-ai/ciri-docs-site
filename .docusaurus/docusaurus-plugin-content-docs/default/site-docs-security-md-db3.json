@@ -1,0 +1,24 @@
+{
+  "id": "security",
+  "title": "Security & Privacy",
+  "description": "Ciri is designed to be local-first: your state lives on your machine, your keys stay in your environment, and you approve every consequential action before it runs. This guide explains the full security model.",
+  "source": "@site/docs/security.md",
+  "sourceDirName": ".",
+  "slug": "/security",
+  "permalink": "/docs/security",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/security.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing to Ciri",
+    "permalink": "/docs/contributing"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/faq"
+  }
+}

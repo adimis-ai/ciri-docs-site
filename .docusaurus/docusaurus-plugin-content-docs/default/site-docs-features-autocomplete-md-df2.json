@@ -1,0 +1,24 @@
+{
+  "id": "features/autocomplete",
+  "title": "Autocomplete & Context Triggers",
+  "description": "Ciri's terminal input supports two families of autocomplete:",
+  "source": "@site/docs/features/autocomplete.md",
+  "sourceDirName": "features",
+  "slug": "/features/autocomplete",
+  "permalink": "/docs/features/autocomplete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/features/autocomplete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Human-in-the-Loop (HITL)",
+    "permalink": "/docs/features/hitl"
+  },
+  "next": {
+    "title": "Deep Web Research",
+    "permalink": "/docs/features/web-research"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "architecture/overview",
+  "title": "Architecture Overview",
+  "description": "CIRI is a local-first, multi-agent orchestration system built on LangChain and LangGraph. Its core design principle is extensibility: every capability can be added, modified, or replaced at runtime without restarting.",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/docs/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/architecture/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SubAgents & Delegation",
+    "permalink": "/docs/subagents-guide"
+  },
+  "next": {
+    "title": "Core Harness Architecture",
+    "permalink": "/docs/architecture/core-harness"
+  }
+}

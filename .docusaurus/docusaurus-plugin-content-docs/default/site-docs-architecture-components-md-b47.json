@@ -1,0 +1,15 @@
+{
+  "id": "architecture/components",
+  "title": "Architecture - Components",
+  "description": "CIRI's architecture is a modular stack where each component has a specific responsibility.",
+  "source": "@site/docs/architecture/components.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/components",
+  "permalink": "/docs/architecture/components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/architecture/components.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

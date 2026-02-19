@@ -1,0 +1,15 @@
+{
+  "id": "development/setup",
+  "title": "Development Setup",
+  "description": "This page covers a reproducible development environment.",
+  "source": "@site/docs/development/setup.md",
+  "sourceDirName": "development",
+  "slug": "/development/setup",
+  "permalink": "/docs/development/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/development/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

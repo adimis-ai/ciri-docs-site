@@ -1,0 +1,15 @@
+{
+  "id": "development/tests-lint",
+  "title": "Tests & Linting",
+  "description": "Testing",
+  "source": "@site/docs/development/tests-lint.md",
+  "sourceDirName": "development",
+  "slug": "/development/tests-lint",
+  "permalink": "/docs/development/tests-lint",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/development/tests-lint.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

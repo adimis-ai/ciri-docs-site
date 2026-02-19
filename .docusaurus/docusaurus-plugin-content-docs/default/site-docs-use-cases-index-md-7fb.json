@@ -1,0 +1,15 @@
+{
+  "id": "use-cases/index",
+  "title": "Use Cases & Tutorials",
+  "description": "This section contains practical, real-world workflows for CIRI. Pick a tutorial to get hands-on with common tasks:",
+  "source": "@site/docs/use-cases/index.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/",
+  "permalink": "/docs/use-cases/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/use-cases/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

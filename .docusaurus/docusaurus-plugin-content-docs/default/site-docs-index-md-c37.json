@@ -1,0 +1,23 @@
+{
+  "id": "index",
+  "title": "Introduction",
+  "description": "Ciri is an open-source, autonomous AI copilot that lives inside your workspace. She is not a coding assistant — she is a general-purpose intelligence that adapts to whatever domain you work in: software engineering, accounting, marketing, branding, sales, legal research, content production, data analysis, or any discipline you train her on.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Introduction"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/getting-started"
+  }
+}

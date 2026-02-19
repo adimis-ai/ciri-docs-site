@@ -1,0 +1,24 @@
+{
+  "id": "internals/self-evolution",
+  "title": "Self-Evolution & Training",
+  "description": "Ciri is designed to become a better version of herself over time — specialized for your exact workspace rather than remaining a generic assistant. The /sync command triggers the Trainer Agent, which orchestrates a structured AUDIT → ANALYZE → PLAN → BUILD → VERIFY loop.",
+  "source": "@site/docs/internals/self-evolution.md",
+  "sourceDirName": "internals",
+  "slug": "/internals/self-evolution",
+  "permalink": "/docs/internals/self-evolution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/internals/self-evolution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Middleware Stack",
+    "permalink": "/docs/internals/middlewares"
+  },
+  "next": {
+    "title": "Graph Execution & Agent Boot",
+    "permalink": "/docs/internals/graph-execution"
+  }
+}

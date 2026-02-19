@@ -1,0 +1,24 @@
+{
+  "id": "features/hitl",
+  "title": "Human-in-the-Loop (HITL)",
+  "description": "Ciri's Human-in-the-Loop system is a mandatory safety gate built into the HumanInTheLoopMiddleware at the LangGraph level. Before Ciri executes any consequential action — writing a file, running a script, calling an external service — she pauses and presents a richly formatted approval prompt. You inspect, approve, edit, or reject every proposed action.",
+  "source": "@site/docs/features/hitl.md",
+  "sourceDirName": "features",
+  "slug": "/features/hitl",
+  "permalink": "/docs/features/hitl",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/features/hitl.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Persistent Workspace Memory",
+    "permalink": "/docs/features/memory"
+  },
+  "next": {
+    "title": "Autocomplete & Context Triggers",
+    "permalink": "/docs/features/autocomplete"
+  }
+}

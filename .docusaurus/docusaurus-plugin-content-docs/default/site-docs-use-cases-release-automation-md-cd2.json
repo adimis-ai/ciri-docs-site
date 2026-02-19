@@ -1,0 +1,15 @@
+{
+  "id": "use-cases/release-automation",
+  "title": "Release Automation (Packaging & Publishing)",
+  "description": "This tutorial shows how to build a wheel and prepare a release using hatchling and twine, and how to integrate this into CI.",
+  "source": "@site/docs/use-cases/release-automation.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/release-automation",
+  "permalink": "/docs/use-cases/release-automation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/use-cases/release-automation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

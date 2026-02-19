@@ -1,0 +1,24 @@
+{
+  "id": "toolkits-guide",
+  "title": "Toolkits Guide (MCP)",
+  "description": "Toolkits are MCP (Model Context Protocol) servers that give Ciri live, bidirectional access to external services — databases, SaaS APIs, cloud platforms, internal tools, and anything else that can be wrapped in an MCP interface. Ciri's ToolkitInjectionMiddleware acts as an MCP client that discovers, connects to, and hot-reloads these servers without requiring a restart.",
+  "source": "@site/docs/toolkits-guide.md",
+  "sourceDirName": ".",
+  "slug": "/toolkits-guide",
+  "permalink": "/docs/toolkits-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/toolkits-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Skills Guide",
+    "permalink": "/docs/skills-guide"
+  },
+  "next": {
+    "title": "SubAgents & Delegation",
+    "permalink": "/docs/subagents-guide"
+  }
+}

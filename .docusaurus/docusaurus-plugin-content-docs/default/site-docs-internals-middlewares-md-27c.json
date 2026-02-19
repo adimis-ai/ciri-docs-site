@@ -1,0 +1,24 @@
+{
+  "id": "internals/middlewares",
+  "title": "Middleware Stack",
+  "description": "Ciri's intelligence is not monolithic — it is assembled from a layered middleware stack that transforms every agent turn. Each middleware wraps the LLM call to inject context, enforce safety, manage state, or add capabilities.",
+  "source": "@site/docs/internals/middlewares.md",
+  "sourceDirName": "internals",
+  "slug": "/internals/middlewares",
+  "permalink": "/docs/internals/middlewares",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/internals/middlewares.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Copilot Controller",
+    "permalink": "/docs/internals/controller"
+  },
+  "next": {
+    "title": "Self-Evolution & Training",
+    "permalink": "/docs/internals/self-evolution"
+  }
+}

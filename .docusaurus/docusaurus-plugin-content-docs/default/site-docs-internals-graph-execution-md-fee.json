@@ -1,0 +1,24 @@
+{
+  "id": "internals/graph-execution",
+  "title": "Graph Execution & Agent Boot",
+  "description": "This page traces exactly how Ciri is constructed and executed at runtime — from the moment ciri is run in the terminal to the first token streaming back. Reference this when adding middlewares, subagents, or custom tools.",
+  "source": "@site/docs/internals/graph-execution.md",
+  "sourceDirName": "internals",
+  "slug": "/internals/graph-execution",
+  "permalink": "/docs/internals/graph-execution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/internals/graph-execution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Self-Evolution & Training",
+    "permalink": "/docs/internals/self-evolution"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

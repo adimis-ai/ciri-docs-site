@@ -1,0 +1,24 @@
+{
+  "id": "built-in-skills/index",
+  "title": "Built-in Skills",
+  "description": "Ciri ships with 17 built-in skills that are bootstrapped into the global core harness (~/.local/share/ciri/skills/) on first run. These skills give Ciri immediate, expert-level capabilities across document processing, design, coding, communications, and more — in any workspace, without needing to train per-project.",
+  "source": "@site/docs/built-in-skills/index.md",
+  "sourceDirName": "built-in-skills",
+  "slug": "/built-in-skills/",
+  "permalink": "/docs/built-in-skills/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/built-in-skills/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Script Executor",
+    "permalink": "/docs/features/script-executor"
+  },
+  "next": {
+    "title": "Skills Guide",
+    "permalink": "/docs/skills-guide"
+  }
+}

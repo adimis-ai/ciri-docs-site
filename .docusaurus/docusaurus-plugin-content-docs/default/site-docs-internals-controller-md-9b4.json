@@ -1,0 +1,24 @@
+{
+  "id": "internals/controller",
+  "title": "Copilot Controller",
+  "description": "The CopilotController is the primary interface for executing the CIRI agent graph. It handles conversation threads, state management, and multimodal input processing.",
+  "source": "@site/docs/internals/controller.md",
+  "sourceDirName": "internals",
+  "slug": "/internals/controller",
+  "permalink": "/docs/internals/controller",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/internals/controller.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core Harness Architecture",
+    "permalink": "/docs/architecture/core-harness"
+  },
+  "next": {
+    "title": "Middleware Stack",
+    "permalink": "/docs/internals/middlewares"
+  }
+}

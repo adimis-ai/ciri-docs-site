@@ -1,0 +1,15 @@
+{
+  "id": "architecture/components-deep",
+  "title": "Architecture - Components (Deep Dive)",
+  "description": "This page provides a high-resolution view of the CIRI internals and their implementation details.",
+  "source": "@site/docs/architecture/components-deep.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/components-deep",
+  "permalink": "/docs/architecture/components-deep",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/architecture/components-deep.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

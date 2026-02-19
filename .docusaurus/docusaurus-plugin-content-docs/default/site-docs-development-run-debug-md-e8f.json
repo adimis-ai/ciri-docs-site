@@ -1,0 +1,15 @@
+{
+  "id": "development/run-debug",
+  "title": "Run & Debug",
+  "description": "Run the CLI:",
+  "source": "@site/docs/development/run-debug.md",
+  "sourceDirName": "development",
+  "slug": "/development/run-debug",
+  "permalink": "/docs/development/run-debug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/development/run-debug.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

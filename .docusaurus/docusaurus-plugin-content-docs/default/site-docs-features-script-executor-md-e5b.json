@@ -1,0 +1,24 @@
+{
+  "id": "features/script-executor",
+  "title": "Script Executor",
+  "description": "The execute_script tool gives Ciri the ability to run arbitrary Python or JavaScript code in a fully isolated, sandboxed environment — with your explicit approval before anything runs. It handles dependency installation, execution, output collection, and cleanup automatically.",
+  "source": "@site/docs/features/script-executor.md",
+  "sourceDirName": "features",
+  "slug": "/features/script-executor",
+  "permalink": "/docs/features/script-executor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/features/script-executor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deep Web Research",
+    "permalink": "/docs/features/web-research"
+  },
+  "next": {
+    "title": "Built-in Skills",
+    "permalink": "/docs/built-in-skills/"
+  }
+}

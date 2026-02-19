@@ -1,0 +1,15 @@
+{
+  "id": "use-cases",
+  "title": "Real-world Use Cases",
+  "description": "This page contains several real-world scenarios, with mermaid diagrams and step-by-step flows showing how CIRI can be used in practical contexts.",
+  "source": "@site/docs/use-cases.md",
+  "sourceDirName": ".",
+  "slug": "/use-cases",
+  "permalink": "/docs/use-cases",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/use-cases.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

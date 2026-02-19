@@ -1,0 +1,24 @@
+{
+  "id": "cli-reference",
+  "title": "CLI Reference",
+  "description": "Ciri's terminal interface is built on Prompt Toolkit for rich, interactive input handling. Everything you type at the You > prompt is either a natural language request, a slash command, or an @-autocomplete trigger.",
+  "source": "@site/docs/cli-reference.md",
+  "sourceDirName": ".",
+  "slug": "/cli-reference",
+  "permalink": "/docs/cli-reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/cli-reference.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/getting-started"
+  },
+  "next": {
+    "title": "Examples & Tutorials",
+    "permalink": "/docs/examples"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "development/build-packaging",
+  "title": "Build & Packaging",
+  "description": "CIRI supports distribution as a wheel (recommended) and a single-file binary via PyInstaller (optional).",
+  "source": "@site/docs/development/build-packaging.md",
+  "sourceDirName": "development",
+  "slug": "/development/build-packaging",
+  "permalink": "/docs/development/build-packaging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/development/build-packaging.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

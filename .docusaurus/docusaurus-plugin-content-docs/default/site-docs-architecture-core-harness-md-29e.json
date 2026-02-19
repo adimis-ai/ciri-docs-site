@@ -1,0 +1,24 @@
+{
+  "id": "architecture/core-harness",
+  "title": "Core Harness Architecture",
+  "description": "CIRI uses a two-level harness to separate capabilities that belong to your entire development environment from those specific to a single project. This is one of the most important architectural decisions in CIRI — it's what makes skills, toolkits, and subagents reusable across all your workspaces.",
+  "source": "@site/docs/architecture/core-harness.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/core-harness",
+  "permalink": "/docs/architecture/core-harness",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/architecture/core-harness.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Overview",
+    "permalink": "/docs/architecture/overview"
+  },
+  "next": {
+    "title": "Copilot Controller",
+    "permalink": "/docs/internals/controller"
+  }
+}

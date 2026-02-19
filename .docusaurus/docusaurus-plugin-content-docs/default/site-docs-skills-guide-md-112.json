@@ -1,0 +1,24 @@
+{
+  "id": "skills-guide",
+  "title": "Skills Guide",
+  "description": "Skills are the fundamental building blocks of Ciri's domain knowledge. A skill is a self-contained package consisting of a SKILL.md playbook and optional Python helper scripts. Skills tell Ciri when to activate and how to approach tasks in a specific domain — whether that domain is PDF processing, financial reporting, marketing copy, or legal document review.",
+  "source": "@site/docs/skills-guide.md",
+  "sourceDirName": ".",
+  "slug": "/skills-guide",
+  "permalink": "/docs/skills-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/skills-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Built-in Skills",
+    "permalink": "/docs/built-in-skills/"
+  },
+  "next": {
+    "title": "Toolkits Guide (MCP)",
+    "permalink": "/docs/toolkits-guide"
+  }
+}

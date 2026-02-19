@@ -1,0 +1,15 @@
+{
+  "id": "architecture/skills-toolkits",
+  "title": "Skills, Toolkits and Subagents",
+  "description": "CIRI is extended with three primary extension types:",
+  "source": "@site/docs/architecture/skills-toolkits.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/skills-toolkits",
+  "permalink": "/docs/architecture/skills-toolkits",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/architecture/skills-toolkits.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

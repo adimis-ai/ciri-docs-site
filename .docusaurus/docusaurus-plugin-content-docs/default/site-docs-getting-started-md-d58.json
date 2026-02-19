@@ -1,0 +1,24 @@
+{
+  "id": "getting-started",
+  "title": "Getting Started",
+  "description": "This guide covers installation, first-run setup, and the essential commands to get Ciri working in your workspace in under five minutes.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/docs/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "CLI Reference",
+    "permalink": "/docs/cli-reference"
+  }
+}

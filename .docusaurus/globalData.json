@@ -1,0 +1,191 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "architecture/components",
+              "path": "/docs/architecture/components"
+            },
+            {
+              "id": "architecture/components-deep",
+              "path": "/docs/architecture/components-deep"
+            },
+            {
+              "id": "architecture/core-harness",
+              "path": "/docs/architecture/core-harness",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/overview",
+              "path": "/docs/architecture/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/skills-toolkits",
+              "path": "/docs/architecture/skills-toolkits"
+            },
+            {
+              "id": "built-in-skills/index",
+              "path": "/docs/built-in-skills/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cli-reference",
+              "path": "/docs/cli-reference",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cli-reference-advanced",
+              "path": "/docs/cli-reference-advanced"
+            },
+            {
+              "id": "contributing",
+              "path": "/docs/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/build-packaging",
+              "path": "/docs/development/build-packaging"
+            },
+            {
+              "id": "development/run-debug",
+              "path": "/docs/development/run-debug"
+            },
+            {
+              "id": "development/setup",
+              "path": "/docs/development/setup"
+            },
+            {
+              "id": "development/tests-lint",
+              "path": "/docs/development/tests-lint"
+            },
+            {
+              "id": "examples",
+              "path": "/docs/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/autocomplete",
+              "path": "/docs/features/autocomplete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/hitl",
+              "path": "/docs/features/hitl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/memory",
+              "path": "/docs/features/memory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/script-executor",
+              "path": "/docs/features/script-executor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "features/web-research",
+              "path": "/docs/features/web-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started",
+              "path": "/docs/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internals/controller",
+              "path": "/docs/internals/controller",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internals/graph-execution",
+              "path": "/docs/internals/graph-execution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internals/middlewares",
+              "path": "/docs/internals/middlewares",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "internals/self-evolution",
+              "path": "/docs/internals/self-evolution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "roadmap",
+              "path": "/docs/roadmap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "security",
+              "path": "/docs/security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "skills-guide",
+              "path": "/docs/skills-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "subagents-guide",
+              "path": "/docs/subagents-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "toolkits-guide",
+              "path": "/docs/toolkits-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "use-cases/advanced-research",
+              "path": "/docs/use-cases/advanced-research"
+            },
+            {
+              "id": "use-cases/code-refactor",
+              "path": "/docs/use-cases/code-refactor"
+            },
+            {
+              "id": "use-cases/index",
+              "path": "/docs/use-cases/"
+            },
+            {
+              "id": "use-cases/release-automation",
+              "path": "/docs/use-cases/release-automation"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

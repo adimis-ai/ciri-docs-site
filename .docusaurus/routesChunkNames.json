@@ -1,0 +1,162 @@
+{
+  "/docs-e0c": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/docs-305": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
+  },
+  "/docs-1e6": {
+    "__comp": "a94703ab"
+  },
+  "/docs/-4a8": {
+    "__comp": "17896441",
+    "content": "c377a04b"
+  },
+  "/docs/architecture/components-123": {
+    "__comp": "17896441",
+    "content": "b4745a75"
+  },
+  "/docs/architecture/components-deep-378": {
+    "__comp": "17896441",
+    "content": "9ca1b5d7"
+  },
+  "/docs/architecture/core-harness-9cf": {
+    "__comp": "17896441",
+    "content": "29e309fc"
+  },
+  "/docs/architecture/overview-833": {
+    "__comp": "17896441",
+    "content": "0b1ac180"
+  },
+  "/docs/architecture/skills-toolkits-8fe": {
+    "__comp": "17896441",
+    "content": "be190d8b"
+  },
+  "/docs/built-in-skills/-923": {
+    "__comp": "17896441",
+    "content": "58d1c136"
+  },
+  "/docs/cli-reference-519": {
+    "__comp": "17896441",
+    "content": "eab70eca"
+  },
+  "/docs/cli-reference-advanced-681": {
+    "__comp": "17896441",
+    "content": "c6aad203"
+  },
+  "/docs/contributing-069": {
+    "__comp": "17896441",
+    "content": "4d54d076"
+  },
+  "/docs/development/build-packaging-9b6": {
+    "__comp": "17896441",
+    "content": "06a943b1"
+  },
+  "/docs/development/run-debug-b5a": {
+    "__comp": "17896441",
+    "content": "e8f191b1"
+  },
+  "/docs/development/setup-213": {
+    "__comp": "17896441",
+    "content": "e626e4d0"
+  },
+  "/docs/development/tests-lint-793": {
+    "__comp": "17896441",
+    "content": "b104446c"
+  },
+  "/docs/examples-2c2": {
+    "__comp": "17896441",
+    "content": "09d5ad39"
+  },
+  "/docs/faq-947": {
+    "__comp": "17896441",
+    "content": "0480b142"
+  },
+  "/docs/features/autocomplete-e44": {
+    "__comp": "17896441",
+    "content": "df25aec1"
+  },
+  "/docs/features/hitl-5b8": {
+    "__comp": "17896441",
+    "content": "fd70e43a"
+  },
+  "/docs/features/memory-def": {
+    "__comp": "17896441",
+    "content": "f7aadff1"
+  },
+  "/docs/features/script-executor-128": {
+    "__comp": "17896441",
+    "content": "e5b348a0"
+  },
+  "/docs/features/web-research-4f3": {
+    "__comp": "17896441",
+    "content": "94ca69d1"
+  },
+  "/docs/getting-started-2a1": {
+    "__comp": "17896441",
+    "content": "d589d3a7"
+  },
+  "/docs/internals/controller-7a3": {
+    "__comp": "17896441",
+    "content": "9b4df2f1"
+  },
+  "/docs/internals/graph-execution-d60": {
+    "__comp": "17896441",
+    "content": "fee25f4d"
+  },
+  "/docs/internals/middlewares-d76": {
+    "__comp": "17896441",
+    "content": "27cf5be5"
+  },
+  "/docs/internals/self-evolution-6eb": {
+    "__comp": "17896441",
+    "content": "7ee1213c"
+  },
+  "/docs/roadmap-ced": {
+    "__comp": "17896441",
+    "content": "0dffb83e"
+  },
+  "/docs/security-3ef": {
+    "__comp": "17896441",
+    "content": "db32d859"
+  },
+  "/docs/skills-guide-cb2": {
+    "__comp": "17896441",
+    "content": "11255761"
+  },
+  "/docs/subagents-guide-f9e": {
+    "__comp": "17896441",
+    "content": "4446b722"
+  },
+  "/docs/toolkits-guide-436": {
+    "__comp": "17896441",
+    "content": "8b364adb"
+  },
+  "/docs/use-cases/-271": {
+    "__comp": "17896441",
+    "content": "7fb19e33"
+  },
+  "/docs/use-cases/advanced-research-4aa": {
+    "__comp": "17896441",
+    "content": "c898d6c9"
+  },
+  "/docs/use-cases/code-refactor-0a0": {
+    "__comp": "17896441",
+    "content": "9036b17a"
+  },
+  "/docs/use-cases/release-automation-b00": {
+    "__comp": "17896441",
+    "content": "cd2328ee"
+  },
+  "/-2e1": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

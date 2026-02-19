@@ -1,0 +1,24 @@
+{
+  "id": "features/memory",
+  "title": "Persistent Workspace Memory",
+  "description": "Ciri maintains a long-term understanding of your workspace through a two-level markdown-based memory system. This is not a database or vector store — it is a curated set of .md files that are injected into every single conversation turn, ensuring Ciri always has your context at hand.",
+  "source": "@site/docs/features/memory.md",
+  "sourceDirName": "features",
+  "slug": "/features/memory",
+  "permalink": "/docs/features/memory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/features/memory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Examples & Tutorials",
+    "permalink": "/docs/examples"
+  },
+  "next": {
+    "title": "Human-in-the-Loop (HITL)",
+    "permalink": "/docs/features/hitl"
+  }
+}

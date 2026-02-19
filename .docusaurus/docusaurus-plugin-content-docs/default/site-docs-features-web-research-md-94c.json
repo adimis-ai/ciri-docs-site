@@ -1,0 +1,24 @@
+{
+  "id": "features/web-research",
+  "title": "Deep Web Research",
+  "description": "Ciri's web_researcher subagent is not a basic scraper. It operates your real browser via Chrome DevTools Protocol (CDP), using your actual sessions, cookies, and login state. This means Ciri can research inside authenticated apps — your company's internal wiki, AWS console, GitHub private repos, Salesforce, Google Analytics — anywhere your browser is already logged in.",
+  "source": "@site/docs/features/web-research.md",
+  "sourceDirName": "features",
+  "slug": "/features/web-research",
+  "permalink": "/docs/features/web-research",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/features/web-research.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Autocomplete & Context Triggers",
+    "permalink": "/docs/features/autocomplete"
+  },
+  "next": {
+    "title": "Script Executor",
+    "permalink": "/docs/features/script-executor"
+  }
+}

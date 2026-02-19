@@ -1,0 +1,24 @@
+{
+  "id": "roadmap",
+  "title": "Roadmap",
+  "description": "Ciri's development priorities — where we are, where we're going, and what the community can help with.",
+  "source": "@site/docs/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/docs/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Graph Execution & Agent Boot",
+    "permalink": "/docs/internals/graph-execution"
+  },
+  "next": {
+    "title": "Contributing to Ciri",
+    "permalink": "/docs/contributing"
+  }
+}

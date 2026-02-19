@@ -1,0 +1,15 @@
+{
+  "id": "use-cases/code-refactor",
+  "title": "Code Refactor Flow (Human-in-the-loop)",
+  "description": "This tutorial demonstrates a common developer workflow where CIRI proposes a code fix or refactor, you review it, and CIRI applies it and runs tests.",
+  "source": "@site/docs/use-cases/code-refactor.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/code-refactor",
+  "permalink": "/docs/use-cases/code-refactor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/use-cases/code-refactor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

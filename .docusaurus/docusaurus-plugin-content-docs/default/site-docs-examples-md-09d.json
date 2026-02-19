@@ -1,0 +1,24 @@
+{
+  "id": "examples",
+  "title": "Examples & Tutorials",
+  "description": "Hands-on walkthroughs showing Ciri in action across different domains and workflows.",
+  "source": "@site/docs/examples.md",
+  "sourceDirName": ".",
+  "slug": "/examples",
+  "permalink": "/docs/examples",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/examples.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CLI Reference",
+    "permalink": "/docs/cli-reference"
+  },
+  "next": {
+    "title": "Persistent Workspace Memory",
+    "permalink": "/docs/features/memory"
+  }
+}

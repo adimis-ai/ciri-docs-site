@@ -1,0 +1,15 @@
+{
+  "id": "use-cases/advanced-research",
+  "title": "Advanced Research Assistant (Detailed)",
+  "description": "This guide walks through a full research workflow using CIRI: web crawling, extraction, embedding, retrieval, and summarization. It ties implementation to real files and shows what to expect.",
+  "source": "@site/docs/use-cases/advanced-research.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/advanced-research",
+  "permalink": "/docs/use-cases/advanced-research",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/use-cases/advanced-research.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

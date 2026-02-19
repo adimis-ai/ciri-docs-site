@@ -1,0 +1,15 @@
+{
+  "id": "cli-reference-advanced",
+  "title": "CLI - Advanced Usage and Integration",
+  "description": "This page documents deeper integration points and automation patterns.",
+  "source": "@site/docs/cli-reference-advanced.md",
+  "sourceDirName": ".",
+  "slug": "/cli-reference-advanced",
+  "permalink": "/docs/cli-reference-advanced",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/cli-reference-advanced.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

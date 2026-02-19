@@ -1,0 +1,24 @@
+{
+  "id": "contributing",
+  "title": "Contributing to Ciri",
+  "description": "Thank you for your interest in making Ciri better. This guide covers how to set up a development environment, the project structure, contribution workflows, and how to extend Ciri with new skills, toolkits, and subagents.",
+  "source": "@site/docs/contributing.md",
+  "sourceDirName": ".",
+  "slug": "/contributing",
+  "permalink": "/docs/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/adimis-ai/ciri/tree/main/docs-site/docs/contributing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  },
+  "next": {
+    "title": "Security & Privacy",
+    "permalink": "/docs/security"
+  }
+}

@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Outfit:wght@500;600;700;800&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Outfit', sans-serif;
+
+  --ifm-color-primary: #8b5cf6;
+  --ifm-color-primary-dark: #7c3aed;
+  --ifm-color-primary-darker: #6d28d9;
+  --ifm-color-primary-darkest: #4c1d95;
+  --ifm-color-primary-light: #a78bfa;
+  --ifm-color-primary-lighter: #c4b5fd;
+  --ifm-color-primary-lightest: #ddd6fe;
+
+  --ciri-bg: #0f172a;
+  --ciri-glass: rgba(30, 41, 59, 0.7);
+  --ciri-accent: #0ea5e9;
+  --ciri-gradient: linear-gradient(135deg, #8b5cf6 0%, #0ea5e9 100%);
+}
+
+[data-theme='dark'] {
+  --ifm-background-color: var(--ciri-bg);
+  --ifm-navbar-background-color: rgba(15, 23, 42, 0.8);
+  --ifm-footer-background-color: #020617;
+}
+
+.navbar {
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.hero-banner {
+  padding: 8rem 2rem;
+  background: radial-gradient(circle at 50% -20%, rgba(139, 92, 246, 0.15) 0%, transparent 70%);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-title {
+  font-size: 4.5rem;
+  font-weight: 800;
+  background: var(--ciri-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  color: var(--ifm-color-emphasis-700);
+  max-width: 800px;
+  margin: 0 auto 3rem;
+  line-height: 1.6;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 4rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.feature-card {
+  padding: 2.5rem;
+  background: var(--ciri-glass);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 1.5rem;
+  transition: all 0.3s ease;
+  backdrop-filter: blur(8px);
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.feature-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+.feature-card p {
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.button-primary {
+  background: var(--ciri-gradient);
+  color: #fff !important;
+  font-weight: 600;
+  padding: 1rem 2.5rem;
+  border-radius: 99px;
+  text-decoration: none !important;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 20px rgba(139, 92, 246, 0.2);
+}
+
+.button-primary:hover {
+  transform: scale(1.05);
+  box-shadow: 0 15px 30px rgba(139, 92, 246, 0.4);
+}
