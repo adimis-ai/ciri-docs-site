@@ -1,1 +1,19 @@
-node_modules
+*.env
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+data/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+.claude/
+notes/
+output.txt
+node_modules/
+.docusaurus/
+build/
+.ciri/
+pytest_cache/
