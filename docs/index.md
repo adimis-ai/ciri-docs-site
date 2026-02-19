@@ -124,7 +124,7 @@ Run `/sync` and the **Trainer Agent** audits your environment, identifies capabi
 # Install
 pip install ciri-ai
 # or with uv (recommended)
-uv tool install ciri-ai
+uv tool install ciri-ai --force --refresh
 # or add to project
 uv add ciri-ai
 
